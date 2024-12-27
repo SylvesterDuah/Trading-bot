@@ -50,7 +50,7 @@
 
 ### sh
 #### Copy code
-** git clone https://github.com/SylvesterDuah/Trading.git**
+** git clone https://github.com/SylvesterDuah/Trading-bot.git**
 #### cd your folder/repo name.
 #### Create a virtual environment:
 
